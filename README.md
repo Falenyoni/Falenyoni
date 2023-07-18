@@ -2,12 +2,12 @@
 
 
 ### Hi there 👋,I'm Bongani Nyoni
-I'm Bongani from Zimbabwe , based in South Africa and I'm a Software Engineer. I really like learning languages and frameworkslike React, Angular and React Native.I also enjoy wireframing, ui, ux and design in general. You can check out my twitter at twitter.com/falenyoni
+**_I'm Bongani from Zimbabwe , based in South Africa and I'm a Software Engineer. I really like learning languages and frameworkslike React, Angular and React Native.I also enjoy wireframing, ui, ux and design in general. You can check out my twitter at twitter.com/falenyoni_**
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
-* 💻 HTML5, CSS, JavaScript
+* ⚛ **React**
+* 📱 **React Native**
+* 💻 **HTML5, CSS, JavaScript**
 
 ## Examples of Work
 
