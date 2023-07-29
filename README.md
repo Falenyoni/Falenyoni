@@ -8,6 +8,9 @@
 * ⚛ **React**
 * 📱 **React Native**
 * 💻 **HTML5, CSS, JavaScript**
+* 🌐 **AWS, Azure**
+* ⌨️ **C#, JavaScript, .NET Framework, .NET CORE, Python**
+* 📧 **Kubernetes, Doker, Ansible **
 
 ## Examples of Work
 ---
