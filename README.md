@@ -17,4 +17,4 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/falenyoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/falenyoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/falenyoni/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/falenyoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](nyonibongani.com)  
 
 ---
-[![Bongani's GitHub stats](https://github-readme-stats.vercel.app/api?username=falenyoni)](https://github.com/falenyoni/github-readme-stats)
+[![Bongani's GitHub stats](https://github-readme-stats.vercel.app/api?username=falenyoni&theme=dark&show_icons=true)](https://github.com/falenyoni/github-readme-stats)
